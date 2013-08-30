@@ -1,0 +1,26 @@
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.pdb
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.exe
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.pdb
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\bin\Debug\AWSSDK.dll
+D:\Visual Studio Project\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe.config
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\bin\Debug\TestNetSDK.exe.config
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\obj\x86\Debug\TestNetSDK.exe
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\obj\x86\Debug\TestNetSDK.pdb
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\bin\Debug\TestNetSDK.exe
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\bin\Debug\TestNetSDK.pdb
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\bin\Debug\AWSSDK.dll
+C:\Users\user\Desktop\NETSDKUnitest\TestNetSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe.config
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.exe
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.pdb
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.pdb
+C:\Users\CHU\Desktop\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe.config
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.exe
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\TestNetSDK.pdb
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.exe
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\bin\Debug\TestNetSDK.pdb
+C:\Users\CHU\Desktop\NetSDK\TestNetSDK\TestNetSDK\TestNetSDK\obj\x86\Debug\ResolveAssemblyReference.cache
